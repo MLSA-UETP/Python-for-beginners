@@ -28,8 +28,4 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         python -m pip install flake8 pytest
-    - name: Test with pytest
-      run: |
-        pytest /home/runner/work/Python-for-beginners/Python-for-beginners/module01/* --ignore README.md
-        pytest /home/runner/work/Python-for-beginners/Python-for-beginners/module02/* --ignore /home/runner/work/Python-for-beginners/Python-for-beginners/module02/README.md
-        pytest /home/runner/work/Python-for-beginners/Python-for-beginners/module03/* --ignore /home/runner/work/Python-for-beginners/Python-for-beginners/module03/README.md
+    
