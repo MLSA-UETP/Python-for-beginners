@@ -30,4 +30,4 @@ jobs:
         python -m pip install flake8 pytest
     - name: Test with pytest
       run: |
-        pytest
+        pytest /home/runner/work/Python-for-beginners/Python-for-beginners/*
