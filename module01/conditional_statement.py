@@ -36,10 +36,4 @@ elif favorite_color == "blue":
 else:
     print("Are you even a wizard?")
 
-# If-else statement with a play on words
-my_list = [1, 2, 3]
 
-if my_list:
-    print("Looks like you've got a list of things to do!")
-else:
-    print("It's okay to take a break and re-list.")
