@@ -2,15 +2,13 @@
 
 # Python-for-beginners
 
-# Python Tutorial
-This Python tutorial for beginners provides complete overview of Python. Explorer Python features, Python syntax, python applications, python projects. You will also get 270+ free python tutorials to learn python from scratch. Go from zero to hero with this python tutorial
+This Python tutorial for beginners provides complete overview of Python. Explorer Python features, Python syntax, python applications.
 
 ## 1. What is Python?
 Python has quickly become a favorite- it’s being taught in universities, and also being used for everything from scripting and web development to machine learning and data science. But what is Python?
 
 Python is a general-purpose programming language that is interpreted, object-oriented and dynamically-typed. Guido Van Rossum, its BDFL (Benevolent Dictator For Life), named it over the British comedy group Monty Python. The implementation we widely use is CPython (written in C). Python has powerful frameworks and libraries. You can install these libraries with pip, and find them in PyPI (Python Package Index).
 
-Before proceeding ahead it is recommended to refer: **[240+ Free tutorials to master Python](https://data-flair.training/blogs/python-tutorials-home/)**
 
 ## 2. Why Learn Python?
 **There is more than one reason why you should learn this language:**
@@ -18,7 +16,7 @@ Before proceeding ahead it is recommended to refer: **[240+ Free tutorials to ma
  - It is great for both startups as well as big organizations. It is also beginner-friendly.
  - Python is open-source and has a large community. It is one of the top 5 in the largest communities on StackOverflow, the most-used languages on GitHub, and the largest Meetup communities.
  - It has great career opportunities. Python jobs pay well and provide stability.
- - Python has many powerful frameworks like [Django](https://data-flair.training/blogs/django-tutorials-home/) and Flask for web development. They take care of the trivial tasks and make it easier to develop for the web.
+ - Python has many powerful frameworks like Django and Flask for web development. They take care of the trivial tasks and make it easier to develop for the web.
  - It is also great for machine learning, data science, and artificial intelligence. It has libraries for tasks involved in these domains.
  - You can use Raspberry Pi to create DIYs and other projects like robots, arcade machines, remote-controlled toys, and cameras.
  - Python’s readability and ease-of-use make developers more productive.
@@ -201,7 +199,7 @@ Python is an easy language to learn and has a smooth learning curve. Learning th
 
 
 
-## 13. Python Interview Questions
+## 10. Python Interview Questions
 
 You are now ready to answer crack Python interview at any level- beginner, intermediate, or advanced. You can also do this after any of the previous steps. Refer to these questions- these are questions of all difficulties- beginner, intermediate, and advanced. They also have some open-ended questions.
 
@@ -209,7 +207,7 @@ You are now ready to answer crack Python interview at any level- beginner, inter
  - **[Python Interview Questions for Intermediate](https://data-flair.training/blogs/python-interview-questions/)**
  - **[Python Interview Questions - Advanced](https://data-flair.training/blogs/python-programming-interview-questions/)**
 
-## 14. Python Job Trends
+## 11. Python Job Trends
 Python is the second-most loved language and the most-wanted language according to the StackOverflow Developer Survey for 2019. It seems to have a [good future with stable jobs](https://data-flair.training/blogs/python-future/). Also, the jobs pay well. Here are the profiles you can go for if you learn Python:
 
  - Software Engineer
@@ -271,5 +269,5 @@ Facebook extensively uses Python. The libraries and frameworks reduce the code-l
 Google has been using Python since the beginning. They decided to implement Python for ease of maintenance and faster delivery than C++. They also recoded some Perl or Bash scripts into Python. Python is the official Google server-side language at Google. Peter Norvig, and American computer scientist, said "Python has been an important part of Google since the beginning and remains so as the system grows and evolves. Today, dozens of Google engineers use Python, and we're looking for more people with skills in this language."
 
 
-This was the A-Z of Python. In this python tutorial we tried to cover complete overview of Python you could want to know. We discussed Python, its syntax, why and how to learn python, a short tutorials, some libraries, python projects, python interview questions, its future, Python for Machine Learning, companies and some case studies.
+
 
