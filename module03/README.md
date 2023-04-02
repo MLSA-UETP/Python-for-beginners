@@ -1,6 +1,11 @@
   # INTRODUCTION
  
-In this module, we will discuss three essential data types in Python: lists, dictionaries, and tuples. Lists are used to store a collection of items in an ordered sequence, and they can contain any type of value. Dictionaries are used to store collections of key-value pairs, with keys mapping to values. Tuples are similar to lists but are immutable, meaning that their values cannot be modified after creation. We will cover how to create and modify these data types, how to access their values, and how to iterate over them using loops.
+In this module, we will discuss three essential data types in Python: **lists, dictionaries, and tuples.** <br>
+📌 Lists are used to store a collection of items in an ordered sequence, and they can contain any type of value.<br>
+📌 Dictionaries are used to store collections of key-value pairs, with keys mapping to values.<br>
+📌 Tuples are similar to lists but are immutable, meaning that their values cannot be modified after creation.<br>
+<br>
+📜 We will cover how to create and modify these data types, how to access their values, and how to iterate over them using loops.
 
 <br>
 
