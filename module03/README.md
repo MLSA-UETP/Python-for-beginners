@@ -6,8 +6,9 @@
 
 A list is defined using square brackets ([]) and can contain any type of values, including numbers, strings, other lists, or even objects. Here's an example of how to create a list:
 
-
+```
 my_list = [1, 2, 3, "four", "five"]
+```
 
 You can access individual elements in a list by their index, which starts at 0 for the first element. For example, to access the first element in the list above, you would use my_list[0], which would return the value 1. You can also use negative indices to access elements from the end of the list. For example, my_list[-1] would return the last element in the list, which is "five".
 
