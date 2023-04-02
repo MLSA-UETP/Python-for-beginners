@@ -26,7 +26,7 @@ Functions can make your code more modular and easier to read and maintain. By br
 Refer to : [functions.py](https://github.com/MLSA-UETP/Python-for-beginners/blob/main/module02/functions.py)
 
 
-## Loops ## Loop <img src="https://github.com/MLSA-UETP/Python-for-beginners/blob/main/module02/GIFS/Loop.gif" alt="Logo" width="50" height="50" align="center">
+## Loops <img src="https://github.com/MLSA-UETP/Python-for-beginners/blob/main/module02/GIFS/Loop.gif" alt="Logo" width="50" height="50" align="center">
 
 
 In programming, loops are a way to execute a block of code repeatedly until a certain condition is met. They are essential in automating repetitive tasks and reducing code redundancy. There are two main types of loops in Python: for loops and while loops.
