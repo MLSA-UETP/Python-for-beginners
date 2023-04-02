@@ -1,0 +1,49 @@
+What is the difference between a list and a tuple in Python?
+A) Lists are mutable, while tuples are immutable
+B) Lists are ordered, while tuples are unordered
+C) Lists can contain only one data type, while tuples can contain multiple data types
+D) Lists can be accessed using a key, while tuples cannot
+Answer: A) Lists are mutable, while tuples are immutable. Lists and tuples are both sequences of values, but the key difference between them is that lists can be modified after they are created, while tuples cannot.
+
+What is a dictionary in Python?
+A) A sequence of values that are indexed by keys
+B) A collection of ordered, immutable values
+C) A data structure that allows you to store key-value pairs
+D) A set of rules for how to execute a specific task
+Answer: C) A data structure that allows you to store key-value pairs. A dictionary is a collection of key-value pairs, where each key is associated with a value. Dictionaries are mutable, and you can add, remove, or modify key-value pairs as needed.
+
+What is the output of the following code snippet?
+
+my_dict = {'apple': 3, 'banana': 2, 'orange': 4}
+for key in my_dict:
+    print(key)
+
+A) 3 2 4
+B) 'apple' 'banana' 'orange'
+C) {'apple': 3, 'banana': 2, 'orange': 4}
+D) 'apple' 3 'banana' 2 'orange' 4
+
+Answer: B) 'apple' 'banana' 'orange'. When you iterate over a dictionary in Python, you loop over its keys. In this code snippet, the for loop prints each key in the dictionary, one at a time.
+
+What is the purpose of try-except blocks in Python?
+A) To specify the order of execution for a program
+B) To catch and handle exceptions that occur during program execution
+C) To define a new data type
+D) To declare a variable
+Answer: B) To catch and handle exceptions that occur during program execution. A try-except block allows you to catch and handle exceptions that may occur during program execution. You can use these blocks to gracefully handle errors, recover from unexpected situations, and keep your program running smoothly.
+
+What is the output of the following code snippet?
+
+
+my_list = [1, 2, 3, 4, 5]
+try:
+    print(my_list[6])
+except IndexError:
+    print("Index out of range")
+
+A) 6
+B) 5
+C) "Index out of range"
+D) None
+
+Answer: C) "Index out of range". This code tries to print the value at index 6 in the my_list list, but this index is out of range (the list only has 5 elements). When the IndexError occurs, the code jumps to the except block, which prints the error message "Index out of range".
