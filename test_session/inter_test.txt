@@ -1,0 +1,12 @@
+Write a program that prompts the user to enter a sentence, and then counts the number of vowels (a, e, i, o, u) and consonants in the sentence. The program should print out the counts for each vowel and consonant.
+
+Here are the steps to complete the task:
+
+Use the input() function to prompt the user to enter a sentence.
+Convert the sentence to lowercase using the lower() method to make it easier to count the vowels.
+Initialize variables to keep track of the counts for each vowel and consonant, and set them to zero.
+Use a for loop to iterate over each character in the sentence.
+Use an if statement to check whether the character is a vowel. If it is, increment the count for that vowel.
+If the character is not a vowel, use another if statement to check whether it is a consonant. If it is, increment the count for consonants.
+Print out the counts for each vowel and consonant.
+

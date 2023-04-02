@@ -1,0 +1,15 @@
+TASK:
+Write a program that generates a random number between 1 and 100, and then asks the user to guess the number. For each guess, the program should tell the user whether their guess was too high or too low, and then ask them to guess again. The program should keep track of the number of guesses the user has made, and should stop asking for guesses once the user has guessed the correct number. Once the user has guessed the correct number, the program should print out how many guesses it took the user to get the correct answer.
+
+STEPS:
+touch
+1. Import the random module to generate a random number.
+2. Generate a random number between 1 and 100 using the randint() function from the random module.
+3. Initialize a counter variable to keep track of the number of guesses.
+4. Use a while loop to keep asking the user for guesses until they guess the correct number.
+5. Inside the loop, use the input() function to get the user's guess as a string, and then convert it to an integer using the int() function.
+6. Use an if statement to check whether the user's guess is equal to the random number. If it is, print out a message telling the user they guessed correctly, and break out of the loop.
+7. If the user's guess is too high, print out a message telling them so.
+8. If the user's guess is too low, print out a message telling them so.
+9. Increment the counter variable by 1 for each guess.
+10. Once the user guesses the correct number, print out a message telling them how many guesses it took to get the correct answer.
