@@ -85,11 +85,12 @@ Error handling in Python refers to the process of anticipating and handling erro
 
 The most common way to handle exceptions in Python is to use a try/except block. Here's how it works:
 
-
+```
 try:
     # some code that might raise an exception
 except ExceptionType:
     # code to handle the exception
+```
 
 In this example, the code inside the try block is executed, and if it raises an exception of the type ExceptionType, then the code inside the except block is executed instead. The except block can include code to handle the exception in some way, such as printing an error message or taking some corrective action.
 
