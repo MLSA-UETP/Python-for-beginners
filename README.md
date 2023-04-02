@@ -1,29 +1,29 @@
 
 
-# Python-for-beginners
+# 🐍 Python-for-beginners
 
 This Python tutorial for beginners provides complete overview of Python. Explorer Python features, Python syntax, python applications.
 
-## 1. What is Python?
+## 1. What is Python? 🤔
 Python has quickly become a favorite- it’s being taught in universities, and also being used for everything from scripting and web development to machine learning and data science. But what is Python?
 
-Python is a general-purpose programming language that is interpreted, object-oriented and dynamically-typed. Guido Van Rossum, its BDFL (Benevolent Dictator For Life), named it over the British comedy group Monty Python. The implementation we widely use is CPython (written in C). Python has powerful frameworks and libraries. You can install these libraries with pip, and find them in PyPI (Python Package Index).
+Python is a general-purpose programming language that is interpreted, object-oriented and dynamically-typed. Guido Van Rossum, its BDFL (Benevolent Dictator For Life), named it over the British comedy group Monty Python. The implementation we widely use is CPython (written in C). Python has powerful frameworks and libraries. You can install these libraries with pip, and find them in PyPI (Python Package Index).💻
 
 
-## 2. Why Learn Python?
+## 2. Why Learn Python? 🤔
 **There is more than one reason why you should learn this language:**
 
- - It is great for both startups as well as big organizations. It is also beginner-friendly.
- - Python is open-source and has a large community. It is one of the top 5 in the largest communities on StackOverflow, the most-used languages on GitHub, and the largest Meetup communities.
- - It has great career opportunities. Python jobs pay well and provide stability.
- - Python has many powerful frameworks like Django and Flask for web development. They take care of the trivial tasks and make it easier to develop for the web.
+ - It is great for both startups as well as big organizations. It is also beginner-friendly.💼
+ - Python is open-source and has a large community. It is one of the top 5 in the largest communities on StackOverflow, the most-used languages on GitHub, and the largest Meetup communities.👥
+ - It has great career opportunities. Python jobs pay well and provide stability.💰
+ - Python has many powerful frameworks like Django and Flask for web development. They take care of the trivial tasks and make it easier to develop for the web.🌐
  - It is also great for machine learning, data science, and artificial intelligence. It has libraries for tasks involved in these domains.
- - You can use Raspberry Pi to create DIYs and other projects like robots, arcade machines, remote-controlled toys, and cameras.
+ - You can use Raspberry Pi to create DIYs and other projects like robots, arcade machines, remote-controlled toys, and cameras.🤖 🕹️ 🚀 📷
  - Python’s readability and ease-of-use make developers more productive.
 
 
 
-## 3. What is it used for?
+## 3. What is it used for? 🔧
 Python is a general-purpose language, but is used almost everywhere:
  - Web development
  - Game development
@@ -40,7 +40,7 @@ Python is a general-purpose language, but is used almost everywhere:
  - Desktop GUI
  - Network Programming
 
-## 4. Is Python Easy to Learn?
+## 4. Is Python Easy to Learn? 🤔
 Python is definitely easy to learn, that is why python is taught to university students- to create interest in programming. You can gain expertise in python with this free python tutorial. **Python is:**
 
  - Easy to learn- it has a smooth learning curve
@@ -48,7 +48,7 @@ Python is definitely easy to learn, that is why python is taught to university s
  - Easy to write- Python’s syntax is like English
  - Easy to debug- it gives you full tracebacks
  
-## 5. How to Learn Python?
+## 5. How to Learn Python? 📖
 Want to learn Python and build a career in it? We have laid down steps to help you:
 
  - Code while you learn
@@ -60,7 +60,7 @@ Want to learn Python and build a career in it? We have laid down steps to help y
  - Contribute to open-source projects
  - **[Python cheat sheet](https://docs.google.com/spreadsheets/d/1eNBLcKqCVN9zZQvfGUmm5bAzsETqB_ugVOlUtmvJGYU/edit#gid=0)** containing 100s of free tutorials, practicals, projects, (everything you need to master python)
 
-### Top Python Books
+### Top Python Books 📚
 These are some books you should read to improve your Python skills:
 
  - Learning Python - Mark Lutz
@@ -71,10 +71,10 @@ These are some books you should read to improve your Python skills:
  - Violent Python - TJ O’Connor
  - Python Pocket Reference - Mark Lutz
 
-## 6. Basics of Python for beginners
+## 6. Basics of Python for beginners 🔰
 
 
-### Python Features
+### Python Features 🎯
 
 Let’s discuss some features of Python now.
 
@@ -93,7 +93,7 @@ Let’s discuss some features of Python now.
  
 
 
-### d. Flavors of Python
+### d. Flavors of Python 😋
 
 Python has more than one implementation. We use CPython, others are:
 
@@ -116,7 +116,7 @@ Python files may have one of the following extensions:
  - .pyw
  - .pyz
 
-## 7. Python Syntax
+## 7. Python Syntax 💻💬
 
 To learn about variables, operators, and other topics, refer to the links above. Here, we will talk about the syntax of Python code.
 
@@ -134,7 +134,7 @@ To learn about variables, operators, and other topics, refer to the links above.
  - String formatters - For this, you can use the % operator, the format() method, or f-strings.
  - **[Python vs Java vs C++](https://data-flair.training/blogs/python-vs-java/)** - Curly braces are mandatory in Java and C++, but Python uses whitespace indentation to delimit code. Semicolons are optional in Python, but can cause errors in C++ and Java. Python is dynamically-typed, Java and C++ are statically-typed. Java is faster than Python.
 
-## 8. Popular IDEs
+## 8. Popular IDEs 📱
 
 While you learn Python, you will use an IDE (Integrated Development Environment) to run the python code. You can choose one or more of the following. Here, you can write, edit, test and debug code. It has build automation, code linting, testing, and debugging. This speeds up your work.
 
@@ -193,13 +193,13 @@ JupyterLab is the next-gen UI for [Project Jupyter](https://jupyterlab.readthedo
 Pricing: Free
 PyDev is a Python IDE for Eclipse. Using the PyDev plugin with Eclipse, we can develop for Python.
 
-## 9. How Long Will it Take to Learn Python?
+## 9. How Long Will it Take to Learn Python? 🕰️
 
 Python is an easy language to learn and has a smooth learning curve. Learning the basics will not take much time, you can learn python basics with this python tutorial. You will need to practice as you learn. The more you practice, the better you are at it. You will need to build projects as well. Once you have followed the steps mentioned above, you can say you know Python. So how long it will take depends on you.
 
 
 
-## 10. Python Interview Questions
+## 10. Python Interview Questions 🗣️
 
 You are now ready to answer crack Python interview at any level- beginner, intermediate, or advanced. You can also do this after any of the previous steps. Refer to these questions- these are questions of all difficulties- beginner, intermediate, and advanced. They also have some open-ended questions.
 
@@ -207,7 +207,7 @@ You are now ready to answer crack Python interview at any level- beginner, inter
  - **[Python Interview Questions for Intermediate](https://data-flair.training/blogs/python-interview-questions/)**
  - **[Python Interview Questions - Advanced](https://data-flair.training/blogs/python-programming-interview-questions/)**
 
-## 11. Python Job Trends
+## 11. Python Job Trends 📊
 Python is the second-most loved language and the most-wanted language according to the StackOverflow Developer Survey for 2019. It seems to have a [good future with stable jobs](https://data-flair.training/blogs/python-future/). Also, the jobs pay well. Here are the profiles you can go for if you learn Python:
 
  - Software Engineer
@@ -216,7 +216,7 @@ Python is the second-most loved language and the most-wanted language according 
  - Data Scientist
  - Senior Data Scientist
 
-And here are the salaries:
+And here are the salaries: 🤑
 
  - Software Engineer - $103,035 /year
  - Senior Software Engineer - $129,328 /year
@@ -228,7 +228,7 @@ Python is at #3 on the TIOBE Index for September 2019. Job boards like Naukri an
 
 
 
-## 16. Companies Using Python
+## 16. Companies Using Python 🏢
 
 Many giant companies use Python for their products and services. Some of these are:
 
@@ -247,9 +247,9 @@ Many giant companies use Python for their products and services. Some of these a
  - Bit Torrent - Originally written in Python
  - Other companies like Uber, MIT, Hike, Pandora, Spotify, Udemy, Netflix, PayPal, Reddit, Pinterest, and Glassdoor use it too
 
-## 17. Case Studies - Python
+## 17. Case Studies - Python 📚🔍
 
-### a. Python at Netflix
+### a. Python at Netflix 
 
 **[Netflix uses Python](https://data-flair.training/blogs/python-at-netflix/)** for data analysis and its backend services. It is how it recommends new titles. Netflix also uses Python to build custom extensions to the Jupyter server. This can be used to manage tasks like logging, archiving, publishing and cloning notebooks. Netflix uses the statistical and numerical libraries like numpy, scipy, tuptures, and pandas. It also uses Python for automation, data exploration, and visualization. It implements demand engineering, insight engineering, Open Connect Network, Information Security, an ML infrastructure, Notebooks, a Partner Ecosystem, and Animation and NVFX.
 
