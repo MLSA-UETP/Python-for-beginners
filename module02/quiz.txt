@@ -1,0 +1,45 @@
+What is the purpose of a loop in programming?
+A) To perform a specific action only once
+B) To execute a block of code repeatedly
+C) To define a new data type
+D) To declare a variable
+Answer: B) To execute a block of code repeatedly. A loop is a programming construct that allows you to repeatedly execute a block of code until a certain condition is met.
+
+What is the output of the following code snippet?
+
+
+def print_numbers(n):
+    for i in range(1, n+1):
+        print(i)
+
+print_numbers(5)
+A) 1 2 3 4 5
+B) 0 1 2 3 4
+C) 2 4 6 8 10
+D) 5 4 3 2 1
+
+Answer: A) 1 2 3 4 5. The function print_numbers takes a parameter n, and then uses a for loop to iterate over the values from 1 to n, printing each value in turn.
+
+What type of loop would you use if you don't know in advance how many times you need to iterate?
+A) for loop
+B) while loop
+C) do-while loop
+D) infinite loop
+Answer: B) while loop. A while loop is a type of loop that repeatedly executes a block of code while a certain condition is true. Unlike a for loop, which requires you to specify the number of iterations in advance, a while loop allows you to continue looping as long as the condition remains true.
+
+What is the purpose of a function in programming?
+A) To execute a block of code repeatedly
+B) To store a value
+C) To define a new data type
+D) To encapsulate a block of code that performs a specific task
+Answer: D) To encapsulate a block of code that performs a specific task. A function is a block of code that is designed to perform a specific task or set of tasks. Functions can be called from other parts of a program, allowing you to reuse code and improve code organization and readability.
+
+What is the difference between a parameter and an argument in a function?
+A) They are the same thing
+B) A parameter is a value passed to a function, and an argument is a variable used inside a function
+C) A parameter is a variable used inside a function, and an argument is a value passed to a function
+D) A parameter is a value passed to a function, and an argument is a variable used inside a function
+Answer: C) A parameter is a variable used inside a function, and an argument is a value passed to a function. When you define a function, you can specify one or more parameters, which are variables that will be used inside the function. When you call the function, you pass one or more arguments, which are the actual values that will be assigned to the parameters inside the function.
+
+
+
