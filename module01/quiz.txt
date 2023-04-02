@@ -1,0 +1,61 @@
+What is the result of the following code snippet?
+
+x = 5
+y = 2
+print(x % y)
+
+A) 2
+B) 1
+C) 0
+D) 2.5
+
+Answer: B) 1. The modulus operator (%) returns the remainder when one number is divided by another. In this case, 5 divided by 2 is 2 with a remainder of 1.
+
+Which data type is used to represent a value that can either be True or False?
+A) int
+B) float
+C) bool
+D) string
+Answer: C) bool. The bool data type is used to represent Boolean values, which can either be True or False.
+
+What is the output of the following code snippet?
+
+x = 5
+y = 2
+x /= y
+print(x)
+
+A) 5
+B) 2.5
+C) 3
+D) 2
+
+Answer: B) 2.5. The shorthand operator "/=" is an assignment operator that divides the value of the variable on the left-hand side by the value on the right-hand side and then assigns the result to the variable on the left-hand side. So, in this case, x /= y is equivalent to x = x / y, which results in x being assigned the value 2.5.
+
+Which of the following is NOT a valid data type in Python?
+A) int
+B) float
+C) bool
+D) char
+Answer: D) char. Unlike some other programming languages, Python does not have a data type called "char" to represent single characters. Instead, you can use a string data type to represent a single character as a string with a length of 1.
+
+What is the output of the following code snippet?
+
+
+x = 10
+y = 5
+if x > y:
+  print("x is greater than y")
+else:
+  print("y is greater than x")
+
+A) x is greater than y
+B) y is greater than x
+C) 10
+D) 5
+
+Answer: A) x is greater than y. The conditional statement checks whether the value of x is greater than the value of y. Since x is indeed greater than y (10 > 5), the first print statement is executed, which outputs "x is greater than y".
+
+
+
+
