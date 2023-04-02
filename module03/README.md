@@ -259,6 +259,6 @@ In this **Example**,
 <br>
 The code inside the `finally` block is executed whether or not an exception was raised inside the `try` block.
 
-
+<br><br>
 
 <p align="center">Made with 🤍 by <a href="https://github.com/saadshah8">Muhammad Saad Ali Shah</a></p>
