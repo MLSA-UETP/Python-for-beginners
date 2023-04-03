@@ -63,13 +63,13 @@ Want to learn Python and build a career in it? We have laid down steps to help y
 ### Top Python Books 📚
 These are some books you should read to improve your Python skills:
 
- - Learning Python - Mark Lutz
- - Python Cookbook - David Beazley and Brian K. Jones
- - Python for Data Analysis - Wes McKinney
- - Python Essential Reference - David Beazley
- - Python in a Nutshell - Alex Martelli
- - Violent Python - TJ O’Connor
- - Python Pocket Reference - Mark Lutz
+ - [Learning Python - Mark Lutz](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjG_5aj8oz-AhXfTaQEHajkCE4QFnoECAoQAQ&url=https%3A%2F%2Fcfm.ehu.es%2Fricardo%2Fdocs%2Fpython%2FLearning_Python.pdf&usg=AOvVaw1JInPPbUY4RSNi9Cw76uMG)
+ - [Python Cookbook - David Beazley and Brian K. Jones](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwje26_i8oz-AhWwQaQEHebGAU8QFnoECCIQAQ&url=http%3A%2F%2Fbedford-computing.co.uk%2Flearning%2Fwp-content%2Fuploads%2F2015%2F10%2FPython-Cookbook-3rd-Edition.pdf&usg=AOvVaw3Ee3pWEMrHiXHDXd0BmID-)
+ - [Python for Data Analysis - Wes McKinney](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi24Lb88oz-AhW3V6QEHSs1DSAQFnoECAoQAQ&url=https%3A%2F%2Fbedford-computing.co.uk%2Flearning%2Fwp-content%2Fuploads%2F2015%2F10%2FPython-for-Data-Analysis.pdf&usg=AOvVaw01aPCt1AK70Bklr83bqx3p)
+ - [Python Essential Reference - David Beazley](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiEs7SP84z-AhUvSaQEHTBkBIAQFnoECAoQAQ&url=https%3A%2F%2Ftheswissbay.ch%2Fpdf%2FGentoomen%2520Library%2FProgramming%2FPython%2FPython%2520Essential%2520Reference%252C%2520Fourth%2520Edition%2520%25282009%2529.pdf&usg=AOvVaw285HpvNvc-cotJnpZnLF-3)
+ - [Python in a Nutshell - Alex Martelli](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjM__Kf84z-AhVpUqQEHWbnBPMQFnoECAoQAQ&url=http%3A%2F%2Fommolketab.ir%2Faaf-lib%2F35lreqxex83jddkdquvf5k5bg5kbkl.pdf&usg=AOvVaw22NXF8LxdqOytZTaFbqjmW)
+ - [Violent Python - TJ O’Connor](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwitjJap84z-AhVTbKQEHWL4CZ4QFnoECA0QAQ&url=https%3A%2F%2Frepo.zenk-security.com%2FProgrammation%2FViolent%2520Python%2520-%2520A%2520Cookbook%2520for%2520Hackers%2C%2520Forensic%2520Analysts%2C%2520Penetration%2520Testers%2520and%2520Security%2520Enginners.pdf&usg=AOvVaw2lFBdv5K2Nsq87f_A54Tm6)
+ - [Python Pocket Reference - Mark Lutz](https://www.pdfdrive.com/python-pocket-reference-python-in-your-pocket-pocket-reference-oreilly-d185000642.html)
 
 ## 6. Basics of Python for beginners 🔰
 
